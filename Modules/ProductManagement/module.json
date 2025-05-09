@@ -1,0 +1,13 @@
+{
+    "name": "ProductManagement",
+    "alias": "productmanagement",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ProductManagement\\App\\Providers\\ProductManagementServiceProvider",
+        "Modules\\ProductManagement\\App\\Providers\\EventServiceProvider"
+
+    ],
+    "files": []
+}
